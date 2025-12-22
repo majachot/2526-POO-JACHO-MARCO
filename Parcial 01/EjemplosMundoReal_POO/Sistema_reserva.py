@@ -24,7 +24,7 @@ class Tienda:
 
 
 # Programa principal
-tienda1 = Tienda("Tienda Central")
+tienda1 = Tienda("Mini Market J&G")
 
 tienda1.agregar_producto("Arroz", 1.50)
 tienda1.agregar_producto("Azúcar", 1.20)
