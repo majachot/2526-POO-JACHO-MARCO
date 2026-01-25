@@ -1,17 +1,17 @@
-# Clase base: Empleado
+#Clase base: Empleado
 class Empleado:
     def __init__(self, nombre, salario):
-        # Atributo público
+        #Atributo público
         self.nombre = nombre
 
         # Atributo privado (encapsulación)
         self.__salario = salario
 
-    # Método público para acceder al salario (getter)
+    #Metodo publico para acceder al salario (getter)
     def get_salario(self):
         return self.__salario
 
-    # Método público para modificar el salario (setter)
+    #Metodo público para modificar el salario (setter)
     def set_salario(self, nuevo_salario):
         if nuevo_salario > 0:
             self.__salario = nuevo_salario
@@ -54,6 +54,6 @@ if __name__ == "__main__":
     empleado1.set_salario(1600)
     empleado1.mostrar_info()
 
-n    # Crear una instancia de la clase derivada
+   #Crear una instancia de la clase derivada
     empleado2 = EmpleadoTiempoCompleto("Jose", 1100, 100)
     empleado2.mostrar_info()
