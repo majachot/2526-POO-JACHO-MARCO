@@ -1,0 +1,32 @@
+[
+    {
+        "id": "arroz",
+        "nombre": "arroz",
+        "cantidad": 77,
+        "precio": 56.0
+    },
+    {
+        "id": "877",
+        "nombre": "papa",
+        "cantidad": 49,
+        "precio": 10.0
+    },
+    {
+        "id": "766",
+        "nombre": "azucar",
+        "cantidad": 45,
+        "precio": 12.0
+    },
+    {
+        "id": "sal",
+        "nombre": "sal",
+        "cantidad": 34,
+        "precio": 23.0
+    },
+    {
+        "id": "890",
+        "nombre": "matequilla",
+        "cantidad": 4,
+        "precio": 56.0
+    }
+]
