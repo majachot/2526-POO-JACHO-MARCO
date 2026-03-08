@@ -1,0 +1,34 @@
+{
+    "libros": [
+        {
+            "titulo": "El Diablo de los Numeros",
+            "autor": "Hans Magnus Enzensberger",
+            "categoria": "Literatura infantil",
+            "isbn": "978-84-204"
+        },
+        {
+            "titulo": "El hombre que Calculaba",
+            "autor": "Malba Tahan",
+            "categoria": "Ficcion Matematica",
+            "isbn": "978-950-07"
+        },
+        {
+            "titulo": "Flatland ",
+            "autor": "Edwin A. Abbott",
+            "categoria": "Ciencia ficcion Matematica",
+            "isbn": "978-0486272263"
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "Emily Jacho",
+            "id_usuario": "1755995659",
+            "libros_prestados": []
+        },
+        {
+            "nombre": "Marco Jacho",
+            "id_usuario": "1722498282",
+            "libros_prestados": []
+        }
+    ]
+}
