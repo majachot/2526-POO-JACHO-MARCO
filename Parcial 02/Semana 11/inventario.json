@@ -1,0 +1,38 @@
+{
+    "678": {
+        "id": "678",
+        "nombre": "arroz",
+        "cantidad": 45,
+        "precio": 43.0
+    },
+    "890": {
+        "id": "890",
+        "nombre": "azucar",
+        "cantidad": 34,
+        "precio": 67
+    },
+    "432": {
+        "id": "432",
+        "nombre": "mantequilla",
+        "cantidad": 45,
+        "precio": 23.0
+    },
+    "456": {
+        "id": "456",
+        "nombre": "sal",
+        "cantidad": 23,
+        "precio": 56.0
+    },
+    "56777": {
+        "id": "56777",
+        "nombre": "colas",
+        "cantidad": 10,
+        "precio": 2.0
+    },
+    "45555": {
+        "id": "45555",
+        "nombre": "arina",
+        "cantidad": 15,
+        "precio": 56.0
+    }
+}
