@@ -36,7 +36,7 @@ class TareaApp:
 
         self.complete_btn = tk.Button(
             btn_frame,
-            text="Marcar como Completada",
+            text="Marcar como Realizada",
             command=self.complete_task
         )
         self.complete_btn.grid(row=0, column=1, padx=5)
